@@ -1,4 +1,6 @@
-## Perfect Ward technical test
+## Mini questionnaire program 
+
+Built using Ruby, Redis and tested with RSpec. Fully dockerised. 
 
 ## Setup 
 ```
